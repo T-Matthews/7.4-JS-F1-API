@@ -1,0 +1,19 @@
+.headeritem{
+    justify-content: center;
+}
+.tablerow{
+    border: 1px black solid;
+}
+.tablecol{
+    border: 1px black solid ;
+    padding: 2vh;
+}
+#theDataTable{
+    padding-top: 3vh;
+    justify-content: center;
+}
+#contentr{
+    justify-content: center;
+    padding-top: 3vh;
+    padding-left: 33vh
+}
